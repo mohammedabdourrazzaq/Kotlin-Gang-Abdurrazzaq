@@ -1,0 +1,4 @@
+Nama : Muhammad Abdurrazzaq
+NIM : 25106050060
+Figma adalah platform desain grafis yang berbasis web. Platform ini dirancang khusus untuk memfasilitasi desain UI/UX. 
+Platform ini beroperasi langsung dari browser. Oleh sebab itu, Figma menawarkan kemudahan akses bagi desainer dan tim developer untuk berkolaborasi secara real-time.
